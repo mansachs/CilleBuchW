@@ -64,8 +64,8 @@ body {
 
 #slides {
 	position:absolute;
-	top:15px;
-	left:4px;
+	top:35px;
+	left:25px;
 	z-index:100;
 }
 
